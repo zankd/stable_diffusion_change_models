@@ -1,6 +1,6 @@
-# Automatic switch/change models with Stable Diffusion Automatic1111 UI + API
+# Automatic switch models with Stable Diffusion Automatic1111 UI + API
 
-This repository contains Python scripts for automatically generating images from textual prompts using the Automatic1111 API.
+This repository contains a Python script for automatically generating images from textual prompts using the Automatic1111 API.
 
 # Features
 
